@@ -4,4 +4,6 @@ const updateObjectWithKeyAndValue = function (object, key, value){
 
 
 
-const 
+const destructivelyUpdateObjectWithKeyAndValue = function (object, key, value){
+  
+};
